@@ -5,3 +5,4 @@ change last B
 changed by A
 edited on GitHub
 local change for diff
+commit to undo
